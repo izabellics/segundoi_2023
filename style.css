@@ -1,6 +1,7 @@
-h1 {
-    color: blueviolet;
-}
-div {
-    color: grey;
+:root {
+    --roxo-escuro: #260849;
+    --roxo-fundo: #D4CCF0;
+    --roxo-letrabody: #241840;
+    --roxo-postit: #9569EE;
+    --roxo-detalhes: #6247BD
 }

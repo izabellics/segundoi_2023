@@ -1,13 +1,22 @@
 :root {
-    --roxo-escuro: #260849;
-    --roxo-fundo: #D4CCF0;
+    --roxo-escuro: #2c104d;
+    --roxo-fundo: #ddd6f3;
     --roxo-letrabody: #241840;
     --roxo-postit: #9569EE;
-    --roxo-detalhes: #6247BD
+    --roxo-detalhes: #6247BD;
 }
 body{
     font-family: 'DynaPuff', cursive;
 }
 section {
     background-color: var(--roxo-fundo);
+}
+p {
+    color: var(--roxo-letrabody);
+}
+h1 {
+    color: var(--roxo-escuro);
+}
+.titulo {
+    height: ;
 }

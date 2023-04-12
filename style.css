@@ -5,3 +5,9 @@
     --roxo-postit: #9569EE;
     --roxo-detalhes: #6247BD
 }
+body{
+    font-family: 'DynaPuff', cursive;
+}
+section {
+    background-color: var(--roxo-fundo);
+}

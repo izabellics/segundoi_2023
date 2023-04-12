@@ -1,12 +1,14 @@
 IDEIAS INICIAIS
+pg1
+Tema: A influência da mídia na sociedade.
+     A mídia no meio social.
 
-Tema: A influência da mídia.
-
-
+pg2
 Como a mídia nos influencia.
 
--Benefícios dessa influencia.
+    -Benefícios dessa influencia.
 
--Maleficios.
+    -Maleficios.
 
+pg3
 Como evitar ser influenciado.
